@@ -1,6 +1,8 @@
 import requests
 import tkinter as tk
 
+SCOUTERS_ENTRY_SPACE = 100
+
 win = tk.Tk()
 win.title("Scouting Data Scraper")
 win.geometry("500x400+50+50")
