@@ -1,7 +1,6 @@
 import requests
 import tkinter as tk
 
-
 MATCHES = 10
 
 ENTRY_X = 450 # the base x axis of all of the scouting boxes
